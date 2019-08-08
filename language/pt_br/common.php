@@ -4,7 +4,7 @@
 * @package phpBB Extension - Donation extension
 * @copyright (c) 2016-2018 dmzx - https://www.dmzx-web.net
 * @license http://opensource.org/licenses/gpl-2.0.php GNU General Public License v2
-*
+* Brazilian Portuguese translation by eunaumtenhoid [2019][ver 1.2.8] (https://github.com/phpBBTraducoes)
 */
 
 /**
