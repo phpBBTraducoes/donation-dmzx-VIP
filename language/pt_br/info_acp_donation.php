@@ -37,7 +37,7 @@ $lang = array_merge($lang, array(
 	'ACP_DONATION_CONFIG'				=> 'Configuração',
 	'ACP_DONATION_GOAL'					=> 'Meta de doação',
 	'ACP_DONATION_DONORS'				=> 'Lista de doadores',
-	'ACP_DONATION_HISTORY'				=> 'Histórico de doação',
+	'ACP_DONATION_HISTORY'				=> 'Histórico de doações',
 	'ACP_DONATION_IPN'					=> 'Configurações IPN',
 	// Log entries
 	'LOG_DONATION_CONFIG_UPDATE'	 			=> '<strong>Configuração de doação atualizada</strong>',
@@ -47,6 +47,6 @@ $lang = array_merge($lang, array(
 	'LOG_DONATION_DELETED'	 					=> '<strong>Doador excluído</strong><br />» %1$s',
 	'LOG_DONATION_GOAL_UPDATE'	 				=> '<strong>Meta de doação atualizada</strong>',
 	'LOG_DONATION_IPN_UPDATE'	 				=> '<strong>Configurações de IPN de doação atualizadas</strong>',
-	'LOG_DONATION_HISTORY_DELETED'	 			=> '<strong>Histórico de doação excluído</strong>',
-	'LOG_DONATION_EMAIL'						=> '<strong>E-mail enviado para o usuário expirado</strong><br />» %s',
+	'LOG_DONATION_HISTORY_DELETED'	 			=> '<strong>Histórico de doações excluído</strong>',
+	'LOG_DONATION_EMAIL'						=> '<strong>Email enviado para o usuário expirado</strong><br />» %s',
 ));
