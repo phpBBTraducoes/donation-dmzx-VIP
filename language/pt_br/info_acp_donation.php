@@ -38,7 +38,7 @@ $lang = array_merge($lang, array(
 	'ACP_DONATION_GOAL'					=> 'Meta de doação',
 	'ACP_DONATION_DONORS'				=> 'Lista de doadores',
 	'ACP_DONATION_HISTORY'				=> 'Histórico de doações',
-	'ACP_DONATION_IPN'					=> 'Configurações IPN',
+	'ACP_DONATION_IPN'					=> 'Configurações de IPN',
 	// Log entries
 	'LOG_DONATION_CONFIG_UPDATE'	 			=> '<strong>Configuração de doação atualizada</strong>',
 	'LOG_DONATION_RESET_DATE'	 				=> '<strong>Doação redefinir data de instalação</strong>',
